@@ -6,4 +6,6 @@ the interactive plugins require cgi-bin to be enabled and working then all you d
 
 for weather icons just download free icons that you like
 
+https://community.openenergymonitor.org/t/a-howto-install-freeboard-with-mqtt-for-emontx-shield/1581
+
 https://community.openenergymonitor.org/t/node-red-weather-services-and-dashboards/2841
